@@ -15,7 +15,7 @@ This repository contains the code and report for the CSE 151B Climate Modeling M
 
 ## Instructions
 
-This repository is designed to be run in [Google Colab](https://colab.research.google.com/). If using locally, you may run the `.py` script for training and evaluation.
+This repository is designed to be run in Google Colab. If using locally, you may run the `.py` script for training and evaluation.
 
 ## Notes
 
@@ -26,7 +26,3 @@ This repository is designed to be run in [Google Colab](https://colab.research.g
 
 - Justin Tran — [jut012@ucsd.edu](mailto:jut012@ucsd.edu)
 
-## GitHub Access for Grading
-
-TAs and Professor have been granted access under the following usernames:  
-`salv47`, `nishant42491`, `atong28`, `AZA-2003`, `VedantMohann`, `charliespy`, `DivyamSengar`
