@@ -15,9 +15,10 @@ This repository contains the code, report, and final model used for the CSE 151B
 - `CSE_151B_Competetion_Code.ipynb`: Earlier notebook used for initial experimentation and baseline model testing.
 - `CSE_151B_Competetion_Code with dummy code.ipynb`: Additional notebook exploring a naive `DummyNet` baseline.
 - `cse_151b_competetion_code.py`: Script version of the starter code.
+- `final_climate_change_model.py`: Final version of the model (LatNorm-R-UNet)
 - `CSE 151B Competition Milestone.pdf`: Initial milestone write-up (early model results and planning).
 - `README.md`: This file.
-
+- 
 ##  Models Overview
 
 - **LatNorm–R–UNet (Final)**: Residual UNet with:
