@@ -33,7 +33,7 @@ This repository contains the code, report, and final model used for the CSE 151B
 ##  How to Run
 
 This repository is optimized for Google Colab. You can open `Final Climate Change Model.ipynb` in Colab and start training immediately.  
-If running locally, use `cse_151b_competetion_code.py` for script-based execution.
+If running locally, use `final_climate_change_model.py` for script-based execution.
 
 ##  Notes
 
